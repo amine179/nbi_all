@@ -1,4 +1,4 @@
 # nbi_all
 
 binder link
-https://mybinder.org/v2/gh/amine179/nbi_all/5d1c7b895b85849ca5e68045a78d9077bd61d03b
+https://mybinder.org/v2/gh/amine179/nbi_all/0ddc82c9092452cfec797a4eb5102d5f2fe98142
