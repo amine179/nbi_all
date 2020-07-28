@@ -1,0 +1,11 @@
+numpy
+ipywidgets
+nbinteract
+scipy
+matplotlib
+folium
+ipython
+joblib
+networkx
+pandas
+scikit-learn
