@@ -1,9 +1,0 @@
-ipython
-nbinteract
-ipywidgets
-joblib
-nbextensions
-networkx
-scikit-learn
-scipy
-folium
